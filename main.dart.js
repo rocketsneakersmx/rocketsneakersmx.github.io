@@ -40496,7 +40496,7 @@ this.lu()}}
 A.CJ.prototype={
 M(a){var s=null,r=A.ap(a),q=a.X(t.w).f.f.b,p=A.agJ(a,s,s),o=B.zm.C(0,new A.bn(0,q,0,0)),n=r.p3.y
 n.toString
-n=A.lt(A.adP(B.La,a,!1,!1,!1,!0),s,s,B.bz,!0,n,s,s,B.aw)
+n=A.lt(A.adP(B.Lb,a,!1,!1,!1,!0),s,s,B.bz,!0,n,s,s,B.aw)
 return A.er(s,new A.r0(n,o,B.wb,s,B.aQ,B.lP,s,s),B.p,s,s,new A.dq(s,s,new A.cF(B.n,B.n,p,B.n),s,s,s,B.ao),s,q+161,B.zp,s,s,s,s)}}
 A.nT.prototype={
 gu(a){var s=this
@@ -63592,10 +63592,10 @@ s=A.ww("RocketSneakersMX",n,n,n,n,n,n)
 r=o.e
 q=t.fo
 p=t.F
-r=A.ae1(A.a([B.Lb,new A.nU(A.an(new A.ar(A.a(["22.5","23","23.5","24","24.5","25","25.5","26","26.5","27","27.5","28","28.5","29","29.5","30","30.5","31"],t.s),new A.a8F(),q),!0,q.h("bk.E")),r,new A.a8G(o),n,t.Af)],p),B.dq,B.DZ,B.dV)
+r=A.ae1(A.a([B.Lc,new A.nU(A.an(new A.ar(A.a(["22.5","23","23.5","24","24.5","25","25.5","26","26.5","27","27.5","28","28.5","29","29.5","30","30.5","31"],t.s),new A.a8F(),q),!0,q.h("bk.E")),r,new A.a8G(o),n,t.Af)],p),B.dq,B.DZ,B.dV)
 q=o.d
 q===$&&A.b()
-return new A.vJ(new A.re(s,new A.LO(n,n,1/0,56),n),new A.GM(A.agA(A.a([r,B.z4,new A.o4(q,new A.a8H(o),n,t.t3)],p),B.fS,B.dV),n),new A.CI(A.ahs(A.a([B.z6,A.ahp(new A.a8I(a),B.Lc),A.ahp(new A.a8J(a),B.Ld)],p),B.aB,n,!1),n),B.i,n)}}
+return new A.vJ(new A.re(s,new A.LO(n,n,1/0,56),n),new A.GM(A.agA(A.a([r,B.z4,new A.o4(q,new A.a8H(o),n,t.t3)],p),B.fS,B.dV),n),new A.CI(A.ahs(A.a([B.z6,A.ahp(new A.a8I(a),B.La),A.ahp(new A.a8J(a),B.Ld)],p),B.aB,n,!1),n),B.i,n)}}
 A.a8F.prototype={
 $1(a){var s=null
 return new A.jS(a,A.ww(a,s,s,s,s,s,s),B.dg,s,t.b7)},
@@ -66939,7 +66939,7 @@ B.zp=new A.bn(2,2,2,2)
 B.lP=new A.aT(25e4)
 B.bh=new A.eW(6)
 B.IA=new A.t(!0,B.i,null,null,null,null,null,B.bh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.La=new A.jc("Men\xfa",null,B.IA,null,null,null,null,null,null)
+B.Lb=new A.jc("Men\xfa",null,B.IA,null,null,null,null,null,null)
 B.z6=new A.CJ(null)
 B.z7=new A.nT(null,null,null,null,null,null,null,null)
 B.z8=new A.t6(null,null,null)
@@ -68757,9 +68757,9 @@ B.Kl=new A.t(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.JY=new A.t(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.L8=new A.dy(B.JI,B.KS,B.KB,B.Iq,B.Kt,B.JB,B.KW,B.IS,B.Jk,B.Ko,B.Il,B.KD,B.Kr,B.Kl,B.JY)
 B.L9=new A.wG(1,"longestLine")
-B.Lb=new A.jc("Filtrar por talla: ",null,null,null,null,null,null,null,null)
-B.Lc=new A.jc("Item 1",null,null,null,null,null,null,null,null)
-B.Ld=new A.jc("Item 2",null,null,null,null,null,null,null,null)
+B.La=new A.jc("Entrega inmediata",null,null,null,null,null,null,null,null)
+B.Lc=new A.jc("Filtrar por talla: ",null,null,null,null,null,null,null,null)
+B.Ld=new A.jc("Preventas",null,null,null,null,null,null,null,null)
 B.NE=new A.Hz(0,"system")
 B.v5=new A.wI(0)
 B.Le=new A.wI(0.5)
